@@ -13,11 +13,13 @@ Enjoy challenging the computer or playing with a friend, all within a beautifull
 ---
 
 ## **Screenshots**  
-![x1](https://github.com/user-attachments/assets/a5ed71c4-b41b-45bd-96e5-db5b2ca37b21)
+
+<div>
+   <img src = "https://github.com/user-attachments/assets/a5ed71c4-b41b-45bd-96e5-db5b2ca37b21" width = "300">
+   <img src = "https://github.com/user-attachments/assets/5bb3f00e-7e7b-4866-bae5-ce5628a6de68" width = "300">
+</div>
 
 ![x2](https://github.com/user-attachments/assets/1afff86c-df2f-4073-8810-6f2c72f28bc9)
-
-![x3](https://github.com/user-attachments/assets/5bb3f00e-7e7b-4866-bae5-ce5628a6de68)
 
 ---
 
